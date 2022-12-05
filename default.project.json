@@ -1,0 +1,63 @@
+{
+  "name": "OOP-Framework",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Classes": {
+        "$path": "src/shared/classes"
+      },
+      "Libraries": {
+        "$path": "src/shared/libraries",
+        "Packages": {
+          "$path": "Packages"
+        }
+      }
+    },
+
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server/server"
+      }
+    },
+
+    "ServerStorage": {
+      "Classes": {
+        "$path": "src/server/classes"
+      },
+      "Libraries": {
+        "$path": "src/server/libraries"
+      },
+      "Managers": {
+        "$path": "src/server/managers"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Classes": {
+          "$path": "src/client/classes"
+        },
+        "Libraries": {
+          "$path": "src/client/libraries"
+        },
+        "Managers": {
+          "$path": "src/client/managers"
+        },
+        "Client": {
+          "$path": "src/client/client"
+        }
+      }
+    },
+
+    "Workspace": {
+      "$properties": {
+        "FilteringEnabled": true
+      }
+    },
+    "SoundService": {
+      "$properties": {
+        "RespectFilteringEnabled": true
+      }
+    }
+  }
+}
