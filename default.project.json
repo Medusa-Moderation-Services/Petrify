@@ -2,49 +2,18 @@
   "name": "Petrify",
   "tree": {
     "$className": "DataModel",
-    "ReplicatedStorage": {
-      "Classes": {
-        "$path": "src/shared/classes"
-      },
-      "Libraries": {
-        "$path": "src/shared/libraries",
-        "Packages": {
-          "$path": "Packages"
-        }
+    
+    "ServerStorage": {
+      "PetrifyLibrary": {
+        "$path": "src/PetrifyLibrary"
       }
     },
 
     "ServerScriptService": {
-      "Server": {
-        "$path": "src/server/server"
-      }
-    },
-
-    "ServerStorage": {
-      "Classes": {
-        "$path": "src/server/classes"
-      },
-      "Libraries": {
-        "$path": "src/server/libraries"
-      },
-      "Managers": {
-        "$path": "src/server/managers"
-      }
-    },
-
-    "StarterPlayer": {
-      "StarterPlayerScripts": {
-        "Classes": {
-          "$path": "src/client/classes"
-        },
-        "Libraries": {
-          "$path": "src/client/libraries"
-        },
-        "Managers": {
-          "$path": "src/client/managers"
-        },
-        "Client": {
-          "$path": "src/client/client"
+      "Petrify": {
+        "$path": "src/Petrify",
+        "PetrifyLibrary": {
+          "$path": "src/PetrifyLibrary"
         }
       }
     },
