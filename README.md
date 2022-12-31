@@ -1,6 +1,6 @@
 
 <div align="center">
-	<img src="https://fontmeme.com/permalink/221231/09da98592d24f34558108d54f1890662.png" alt="Petrify" height="150" />
+	<img src="https://fontmeme.com/permalink/221231/26b4bae83a9bb44e9aa27adfca393f66.png" alt="Petrify" height="150" />
 	<br>
 	<a href="https://discord.gg/DrBGgWJhxd"><img alt="Discord" src="https://img.shields.io/discord/1041805301218811944?label=%20&logo=Discord">
 </div>
