@@ -10,11 +10,13 @@
     },
 
     "ServerScriptService": {
-      "Petrify": {
-        "$path": "src/Petrify",
-        "PetrifyLibrary": {
-          "$path": "src/PetrifyLibrary"
-        }
+      "UPLOAD-TO-PUBLIC-PACKAGE": {
+        "$path": "src/Petrify-Data"
+      }
+    },
+    "ReplicatedStorage": {
+      "PetrifyLibrary": {
+        "$path": "src/PetrifyLibrary"
       }
     },
 
